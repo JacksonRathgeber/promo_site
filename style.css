@@ -1,0 +1,31 @@
+* {
+	box-sizing: border-box;
+}
+
+body, html {
+	padding: 20px;
+	margin: 20px;
+}
+
+body {
+	background-color:lightblue;
+	font-family: sans-serif;
+	text-align: center;
+	font-weight: bold;
+	font-size: 18;
+	padding: 20px;
+	margin: 20px;
+/*	color: #501;*/
+}
+
+#title {
+	font-size:60px; 
+	color: darkred; 
+	font-family: monospace;
+	padding: 0px;
+	margin: 0px;
+}
+
+.highlight {
+	background-color: yellow;
+}
